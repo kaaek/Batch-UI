@@ -1,4 +1,4 @@
-# BATCH UI WITHOUT THE UI UTILITY
+# BATCH UI
 
 A command-line menu system for Windows that provides easy access to common system administration, file management, network diagnostics, and data analysis tasks using native Windows CMD batch scripting.
 
